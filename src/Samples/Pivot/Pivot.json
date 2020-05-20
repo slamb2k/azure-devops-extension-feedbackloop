@@ -7,13 +7,13 @@
                 "ms.vss-work-web.iteration-backlog-tabs"
             ],
             "properties": {
-                "name": "Scope Increase",
+                "name": "Scope Change",
                 "uri": "dist/Pivot/Pivot.html",
                 "order": 500000
             }
         }
     ],
     "scopes": [
-        "vso.work"
+        "vso.work_full"
     ]
 }

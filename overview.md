@@ -1,1 +1,1 @@
-Sample Azure DevOps extension
+Azure Boards extension to provide additional insights regarding team performance.

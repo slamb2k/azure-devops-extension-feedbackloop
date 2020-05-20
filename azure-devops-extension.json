@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "azure-devops-extension-feedbackloop",
     "publisher": "babysheepnet",
-    "version": "1.0.20",
+    "version": "1.0.59",
     "name": "Feedback Loop",
     "description": "Azure Boards extension to provide additional insights regarding team performance.",
     "categories": [
