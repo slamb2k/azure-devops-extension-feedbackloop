@@ -26,7 +26,7 @@
     "azure-devops-extension-api": "~1.157.0",
     "azure-devops-extension-sdk": "~2.0.11",
     "azure-devops-ui": "~2.164.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react": "~16.8.1",
     "react-dom": "~16.8.1"
   },
